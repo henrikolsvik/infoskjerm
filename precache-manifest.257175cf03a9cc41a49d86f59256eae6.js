@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7eeb9465f92d484f947cad0b4f54c8c8",
+    "revision": "7089a5d18b1fd19d05278f3dd65c5b27",
     "url": "/infoskjerm/index.html"
   },
   {
-    "revision": "92071ce2c3431e598ab4",
+    "revision": "409c3a69b9e2bcbf9f6e",
     "url": "/infoskjerm/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "8f03e285e5cc58aef8a9",
-    "url": "/infoskjerm/static/js/2.26f9fa03.chunk.js"
+    "revision": "683f96039d24dbe53572",
+    "url": "/infoskjerm/static/js/2.5b0e7b79.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/infoskjerm/static/js/2.26f9fa03.chunk.js.LICENSE.txt"
+    "url": "/infoskjerm/static/js/2.5b0e7b79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92071ce2c3431e598ab4",
-    "url": "/infoskjerm/static/js/main.ecdb68b1.chunk.js"
+    "revision": "409c3a69b9e2bcbf9f6e",
+    "url": "/infoskjerm/static/js/main.df2027a1.chunk.js"
   },
   {
     "revision": "6fa4fe89daa3d5d07bae",
