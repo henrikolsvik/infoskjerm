@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
         <h1>I N F O S K J E R M</h1>
+        <h2>Test of web environment for github</h2>
       <Reddit/>
       <hr/>
       <Bikes/>
